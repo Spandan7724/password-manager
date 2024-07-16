@@ -21,11 +21,11 @@ A terminal-based password manager application written in Go for managing passwor
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/terminal-password-manager.git
+   git clone https://github.com/Spandan7724/password-manager.git
    ```
 2. Change to the project directory   
    ```sh
-   cd terminal-password-manager
+   cd password-manager
    ```
 3. Install the required dependencies:
    ```sh
@@ -38,7 +38,7 @@ A terminal-based password manager application written in Go for managing passwor
    ```   
 ### Running the Application
     
-1. Run Directly     
+1. Run Directly         
     ```sh
     go run .
     ```
